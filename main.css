@@ -1,0 +1,19 @@
+/* CSS Document */
+
+.formlogin {
+	width: 250px;
+	height:  300px ;
+	background-color: #FFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px 10px 10px;
+	border-radius: 5px ;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	box-shadow: 3px 3px 10px 0px #000;
+}
+.body {
+	background: url('p.jpeg');
+	background-position: center ;
+	
+}
